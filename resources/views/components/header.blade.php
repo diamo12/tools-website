@@ -30,7 +30,7 @@
 
                         <nav aria-label="Main" class="rvt-header-menu" data-rvt-disclosure-target="menu" hidden>
                             <ul class="rvt-header-menu__list">
-                                <<li class="rvt-header-menu__item">
+                                <li class="rvt-header-menu__item">
                                     <div class="rvt-header-menu__dropdown rvt-dropdown" data-rvt-dropdown="primary-nav-1">
                                         <div class="rvt-header-menu__group">
                                             <!-- Link that appears in header -->
@@ -59,7 +59,7 @@
                                     </div>
                                 </li>
 
-                                <<li class="rvt-header-menu__item">
+                                <li class="rvt-header-menu__item">
                                     <div class="rvt-header-menu__dropdown rvt-dropdown" data-rvt-dropdown="primary-nav-1">
                                         <div class="rvt-header-menu__group">
                                             <!-- Link that appears in header -->
