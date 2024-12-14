@@ -14,7 +14,7 @@
         <div class="rvt-container-lg">
             <div class="rvt-header-global__inner">
                 <div class="rvt-header-global__logo-slot">
-                    <a class="rvt-lockup" href="#0">
+                    <a class="rvt-lockup" href="/">
                         <div class="rvt-lockup__body">
                             <span class="rvt-lockup__title">Diamo12's Web Tools &amp; Guides</span>
                         </div>
